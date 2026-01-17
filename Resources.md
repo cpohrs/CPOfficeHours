@@ -48,7 +48,7 @@ A curated list of cryptography resources and links.
   - [Blogs](#blogs)
   - [Mailing lists](#mailing-lists)
   - [Web-tools](#web-tools)
-  - [Web-sites](#web-sites)
+  - [Websites](#websites)
 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
@@ -448,9 +448,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
 
-### Web-sites
+### Websites
 
-- [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
 - [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A dashboard of most active cryptocurrencies discussed on Reddit.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
 - [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
@@ -458,7 +457,11 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Eliptic Curve Calculator](https://paulmillr.com/noble/#demo) - simple form that allows to calculate elliptic curve public keys and signatures. Features include ability to create custom curves and different signature types
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography.
 - [IACR](https://www.iacr.org/) - The International Association for Cryptologic Research is a non-profit scientific organization whose purpose is to further research in cryptology and related fields.
+- [PQCA](https://pqca.org/) - Post-Quantum Cryptography Alliance - A Linux Foundation initiative
+- [PQCC](https://pqcc.org/) - Post-Quantum Cryptography Coalition - A MITRE initiative
+- [PKIC](https://pkic.org/) - Public Key Infrastructure Consortium
 - [Learn Cryptography](https://learncryptography.com/) - Dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
+- [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
 - [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - A collection of block diagrams of common cryptographic functions drawn in TikZ to be used in research papers and presentations written in LaTeX.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
