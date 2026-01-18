@@ -1,4 +1,4 @@
-Expanded the Original curated list of cryptography resources from Awesome Cryptograpgy by Sobolevn:
+Expanded the original curated list of cryptography resources from Awesome Cryptograpgy by Sobolevn:
 
 ## Contents
 
