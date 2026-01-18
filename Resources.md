@@ -1,4 +1,4 @@
-A curated list of cryptography resources and links.
+Expanded the Original curated list of cryptography resources from Awesome Cryptograpgy by Sobolevn:
 
 ## Contents
 
@@ -450,6 +450,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Websites
 
+- [Cryptogram](https://www.schneier.com/crypto-gram/) - A newsletter by Bruce Schneier
 - [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A dashboard of most active cryptocurrencies discussed on Reddit.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
 - [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
